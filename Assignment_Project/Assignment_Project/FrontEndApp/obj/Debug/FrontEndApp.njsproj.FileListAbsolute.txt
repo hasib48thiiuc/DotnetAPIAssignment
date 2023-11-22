@@ -1,0 +1,3 @@
+C:\mentorship_works\StockManagementSys\Assignment_Project\FrontEndApp\obj\Debug\FrontEndApp.njsproj.AssemblyReference.cache
+C:\mentorship_works\StockManagementSys\Assignment_Project\FrontEndApp\obj\Debug\FrontEndApp.njsproj.CoreCompileInputs.cache
+C:\mentorship_works\StockManagementSys\Assignment_Project\FrontEndApp\bin\Microsoft.NodejsTools.WebRole.dll
